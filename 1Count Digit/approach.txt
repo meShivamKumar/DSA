@@ -1,0 +1,3 @@
+used Brute force approach.
+
+First Separate numbers using most common way by doing % and then / and pushing each numbers in an array/list and then use those numbers to check if input number is evenly divided by how many numbers from the list/array. 
