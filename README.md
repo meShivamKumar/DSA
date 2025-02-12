@@ -7,3 +7,4 @@ Daily:-
 1. 9FEB:- https://leetcode.com/problems/count-number-of-bad-pairs/
 2. 10FEB:- https://leetcode.com/problems/clear-digits/description/?envType=daily-question&envId=2025-02-10
 3. 11FEB:- https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/
+4. 12FEB:- https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
