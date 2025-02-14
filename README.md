@@ -9,3 +9,4 @@ Daily:-
 3. 11FEB:- https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/
 4. 12FEB:- https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 5. 13FEB:- https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/description/
+6. 14FEB:- https://leetcode.com/problems/product-of-the-last-k-numbers/description/?envType=daily-question&envId=2025-02-14
