@@ -17,3 +17,4 @@ Others:-
 2. https://leetcode.com/problems/sum-of-good-numbers/description/
 3. https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/
 4. https://leetcode.com/problems/merge-two-sorted-lists/description/
+5. https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/
