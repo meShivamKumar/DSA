@@ -18,3 +18,4 @@ Others:-
 3. https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/
 4. https://leetcode.com/problems/merge-two-sorted-lists/description/
 5. https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/
+6. https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
