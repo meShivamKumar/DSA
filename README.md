@@ -11,6 +11,7 @@ Daily:-
 4. 12FEB:- https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 5. 13FEB:- https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/description/
 6. 14FEB:- https://leetcode.com/problems/product-of-the-last-k-numbers/description/?envType=daily-question&envId=2025-02-14
+7. 20FEB:-https://leetcode.com/problems/find-unique-binary-string/description/?envType=daily-question&envId=2025-02-20
 
 Others:-
 1. https://leetcode.com/problems/single-number/description/
