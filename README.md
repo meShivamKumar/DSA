@@ -20,3 +20,7 @@ Others:-
 5. https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/
 6. https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 7. https://leetcode.com/problems/sum-of-variable-length-subarrays/description/
+
+
+Pattern:-
+
