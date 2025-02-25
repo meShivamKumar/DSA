@@ -21,6 +21,7 @@ Others:-
 6. https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 7. https://leetcode.com/problems/sum-of-variable-length-subarrays/description/
 8. https://leetcode.com/problems/return-length-of-arguments-passed/description/
+9. https://leetcode.com/problems/score-of-a-string/
 
 
 Pattern:-
