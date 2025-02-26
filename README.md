@@ -22,6 +22,7 @@ Others:-
 7. https://leetcode.com/problems/sum-of-variable-length-subarrays/description/
 8. https://leetcode.com/problems/return-length-of-arguments-passed/description/
 9. https://leetcode.com/problems/score-of-a-string/
+10. https://leetcode.com/problems/convert-the-temperature/description/
 
 Pattern:-
 
