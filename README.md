@@ -23,6 +23,9 @@ Others:-
 8. https://leetcode.com/problems/return-length-of-arguments-passed/description/
 9. https://leetcode.com/problems/score-of-a-string/
 10. https://leetcode.com/problems/convert-the-temperature/description/
+11. https://leetcode.com/problems/defanging-an-ip-address/description/
+12. https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/
+13. https://leetcode.com/problems/jewels-and-stones/description/
 
 Pattern:-
 
