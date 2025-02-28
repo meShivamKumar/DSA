@@ -26,6 +26,8 @@ Others:-
 11. https://leetcode.com/problems/defanging-an-ip-address/description/
 12. https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/
 13. https://leetcode.com/problems/jewels-and-stones/description/
+14. https://leetcode.com/problems/rank-transform-of-an-array/description/
+15. https://leetcode.com/problems/special-array-i/description/
 
 Pattern:-
 
