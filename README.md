@@ -28,6 +28,7 @@ Others:-
 13. https://leetcode.com/problems/jewels-and-stones/description/
 14. https://leetcode.com/problems/rank-transform-of-an-array/description/
 15. https://leetcode.com/problems/special-array-i/description/
+16. https://leetcode.com/problems/strictly-palindromic-number/description/
 
 Pattern:-
 
