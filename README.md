@@ -29,6 +29,7 @@ Others:-
 14. https://leetcode.com/problems/rank-transform-of-an-array/description/
 15. https://leetcode.com/problems/special-array-i/description/
 16. https://leetcode.com/problems/strictly-palindromic-number/description/
+17. https://leetcode.com/problems/convert-date-to-binary/description/
 
 Pattern:-
 
