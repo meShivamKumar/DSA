@@ -1,0 +1,18 @@
+1. https://leetcode.com/problems/single-number/description/
+2. https://leetcode.com/problems/sum-of-good-numbers/description/
+3. https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/
+4. https://leetcode.com/problems/merge-two-sorted-lists/description/
+5. https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/
+6. https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+7. https://leetcode.com/problems/sum-of-variable-length-subarrays/description/
+8. https://leetcode.com/problems/return-length-of-arguments-passed/description/
+9. https://leetcode.com/problems/score-of-a-string/
+10. https://leetcode.com/problems/convert-the-temperature/description/
+11. https://leetcode.com/problems/defanging-an-ip-address/description/
+12. https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/
+13. https://leetcode.com/problems/jewels-and-stones/description/
+14. https://leetcode.com/problems/rank-transform-of-an-array/description/
+15. https://leetcode.com/problems/special-array-i/description/
+16. https://leetcode.com/problems/strictly-palindromic-number/description/
+17. https://leetcode.com/problems/convert-date-to-binary/description/
+

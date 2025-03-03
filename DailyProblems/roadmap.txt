@@ -1,0 +1,120 @@
+**90-Day Roadmap to Build a Full-Stack Blog Website (Angular & .NET Web API + MVC)**
+
+## **Phase 1: Fundamentals & Core Concepts (Days 1-30)**
+### **Week 1: Setting Up Development Environment (Days 1-7)**
+### **Frontend (Angular)**
+- Learn **TypeScript & ES6 concepts** (Arrow functions, Promises, Async/Await).
+- Install **Node.js, Angular CLI**, and create a new Angular project.
+- Understand **Angular Modules, Components, Services, Routing, and Forms**.
+- Set up a **basic UI** with Bootstrap/TailwindCSS.
+- Learn **RxJS & Observables** (for API communication).
+
+### **Backend (.NET Web API + MVC)**
+- Install **.NET SDK, Visual Studio** & create a **.NET Core Web API + MVC** project.
+- Learn **C# Basics, OOP, LINQ, and Entity Framework Core (EF Core)**.
+- Set up a **SQL Server Database using EF Core Migrations**.
+- Implement **basic CRUD operations** using **Repositories & Dependency Injection (DI)**.
+
+### **Interview Topics:**
+- What is Dependency Injection (DI)?
+- What are RxJS Observables, and how do they work?
+- Difference between SQL and NoSQL?
+
+---
+
+### **Week 2: Deep Dive into Angular Basics (Days 8-14)**
+- Learn **Directives (Structural & Attribute)**.
+- Understand **Data Binding (Interpolation, Event Binding, Two-Way Binding)**.
+- Implement **Pipes & Custom Pipes**.
+- Explore **Angular Lifecycle Hooks**.
+- Learn **Lazy Loading & Module Federation**.
+
+### **Interview Topics:**
+- Explain Change Detection in Angular.
+- What are Lifecycle Hooks and their use cases?
+- How does Lazy Loading improve performance?
+
+---
+
+### **Week 3: Advanced .NET Web API & MVC (Days 15-21)**
+- Learn **.NET Core Middleware & Filters**.
+- Implement **Repository & Unit of Work Patterns**.
+- Use **Automapper for DTOs**.
+- Implement **File Upload & Download in API**.
+- Learn about **Identity Framework & Authentication/Authorization**.
+
+### **Interview Topics:**
+- What is Middleware in .NET Core?
+- Explain the Repository & Unit of Work Patterns.
+- How does Identity Framework work?
+
+---
+
+## **Phase 2: Authentication, Authorization & API Communication (Days 31-60)**
+### **Week 4: User Authentication & Security (Days 31-37)**
+- Implement **JWT Authentication & Refresh Tokens**.
+- Secure API endpoints with **Role-Based Authorization**.
+- Implement **OAuth & Third-Party Login (Google/Facebook)**.
+- Store JWT securely in **Cookies vs. LocalStorage vs. SessionStorage**.
+
+### **Week 5: Advanced Angular Features (Days 38-44)**
+- Implement **State Management using NgRx**.
+- Learn **Angular Guards & Interceptors**.
+- Work with **Angular Animations & Dynamic Components**.
+- Implement **Reactive Forms & Custom Validators**.
+
+### **Interview Topics:**
+- What is NgRx, and how does it work?
+- Explain the difference between Template-Driven and Reactive Forms.
+- How does OAuth differ from JWT Authentication?
+
+---
+
+### **Week 6: API Optimization & Performance (Days 45-51)**
+- Implement **Caching with Redis & In-Memory Caching**.
+- Optimize **Database Queries using EF Core**.
+- Use **Background Jobs with Hangfire**.
+- Implement **Global Exception Handling in .NET Core**.
+
+### **Interview Topics:**
+- What are Caching Strategies, and why are they important?
+- How does Global Exception Handling work in .NET Core?
+- Explain Hangfire and its use cases.
+
+---
+
+## **Phase 3: Building the Blog Platform & Deployment (Days 61-90)**
+### **Week 7: Blog CRUD Operations & File Handling (Days 61-67)**
+- Implement **BlogPost Model (Title, Content, Images, Tags, Author, Timestamp)**.
+- Implement **File Uploads for Blog Images**.
+- Apply **Pagination & Sorting for Blogs**.
+- Implement **Full-Text Search with SQL Server**.
+
+### **Week 8: Comments, Likes & Notifications (Days 68-74)**
+- Implement **Comment & Reply System**.
+- Add **Like/Unlike Feature**.
+- Implement **Real-Time Notifications with SignalR**.
+
+### **Week 9: Testing, CI/CD & Final Deployment (Days 75-90)**
+#### **Backend (.NET Web API + MVC)**
+- Write **Unit Tests using xUnit & Moq** for API testing.
+- Set up **CI/CD Pipeline with GitHub Actions/Azure DevOps**.
+- Deploy API to **Azure or AWS with SQL Server DB**.
+
+#### **Frontend (Angular)**
+- Write **Unit Tests using Jasmine & Karma** for components.
+- Deploy Angular frontend on **Netlify/Vercel/AWS S3**.
+
+### **Interview Topics:**
+- What is CI/CD, and how does it work?
+- How do you write Unit Tests in Angular & .NET?
+- How do you handle API versioning in .NET?
+
+---
+
+## **Final Outcome**
+By the end of 90 days, you will have:
+✅ **A fully functional Blog Website** with Authentication, CRUD operations, Comments, Likes, and Role-based access.
+✅ **Prepared for Full-Stack Interviews** with Angular & .NET-specific topics.
+✅ **Experience in Cloud Deployment, Testing, and CI/CD pipelines.
+
