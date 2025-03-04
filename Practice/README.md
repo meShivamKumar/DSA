@@ -16,5 +16,6 @@
 16. https://leetcode.com/problems/strictly-palindromic-number/description/
 17. https://leetcode.com/problems/convert-date-to-binary/description/
 18. https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/
-19. https://leetcode.com/problems/remove-element/description/
+19. https://leetcode.com/problems/partition-array-according-to-given-pivot/description/
+20. https://leetcode.com/problems/remove-element/description/
 
