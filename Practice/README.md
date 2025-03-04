@@ -15,4 +15,5 @@
 15. https://leetcode.com/problems/special-array-i/description/
 16. https://leetcode.com/problems/strictly-palindromic-number/description/
 17. https://leetcode.com/problems/convert-date-to-binary/description/
+18. https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/
 
