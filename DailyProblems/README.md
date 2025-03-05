@@ -6,3 +6,4 @@ Daily:-
 5. 13FEB:- https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/description/
 6. 14FEB:- https://leetcode.com/problems/product-of-the-last-k-numbers/description/?envType=daily-question&envId=2025-02-14
 7. 20FEB:-https://leetcode.com/problems/find-unique-binary-string/description/?envType=daily-question&envId=2025-02-20
+8. 5MAR:-https://leetcode.com/problems/count-total-number-of-colored-cells/description/
