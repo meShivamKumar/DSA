@@ -19,4 +19,5 @@
 19. https://leetcode.com/problems/partition-array-according-to-given-pivot/description/
 20. https://leetcode.com/problems/remove-element/description/
 21. https://leetcode.com/problems/length-of-last-word/
+22. https://leetcode.com/problems/maximum-ascending-subarray-sum/description/?envType=daily-question&envId=2025-03-07
 
