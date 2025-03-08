@@ -8,3 +8,4 @@ Daily:-
 7. 20FEB:-https://leetcode.com/problems/find-unique-binary-string/description/?envType=daily-question&envId=2025-02-20
 8. 5MAR:-https://leetcode.com/problems/count-total-number-of-colored-cells/description/
 9. 6MAR:- https://leetcode.com/problems/find-missing-and-repeated-values/description/?envType=daily-question&envId=2025-03-06
+10. 8Mar:- https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/?envType=daily-question&envId=2025-03-08
