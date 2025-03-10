@@ -22,4 +22,5 @@
 22. https://leetcode.com/problems/find-words-containing-character/description/
 23. https://leetcode.com/problems/find-target-indices-after-sorting-array/description/
 24. https://leetcode.com/problems/longest-common-prefix/description/
+25. https://leetcode.com/problems/string-matching-in-an-array/description/
 
