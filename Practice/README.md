@@ -25,3 +25,4 @@
 25. https://leetcode.com/problems/string-matching-in-an-array/description/
 26. https://leetcode.com/problems/counting-words-with-a-given-prefix/description/
 27. https://leetcode.com/problems/take-gifts-from-the-richest-pile/?envType=daily-question&envId=2025-03-11
+28. https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/?envType=daily-question&envId=2025-03-13
