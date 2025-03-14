@@ -20,9 +20,10 @@
 20. https://leetcode.com/problems/remove-element/description/
 21. https://leetcode.com/problems/length-of-last-word/
 22. https://leetcode.com/problems/find-words-containing-character/description/
-23. https://leetcode.com/problems/find-target-indices-after-sorting-array/description/
-24. https://leetcode.com/problems/longest-common-prefix/description/
-25. https://leetcode.com/problems/string-matching-in-an-array/description/
-26. https://leetcode.com/problems/counting-words-with-a-given-prefix/description/
-27. https://leetcode.com/problems/take-gifts-from-the-richest-pile/?envType=daily-question&envId=2025-03-11
-28. https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/?envType=daily-question&envId=2025-03-13
+23. https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/?envType=daily-question&envId=2025-03-14
+24. https://leetcode.com/problems/find-target-indices-after-sorting-array/description/
+25. https://leetcode.com/problems/longest-common-prefix/description/
+26. https://leetcode.com/problems/string-matching-in-an-array/description/
+27. https://leetcode.com/problems/counting-words-with-a-given-prefix/description/
+28. https://leetcode.com/problems/take-gifts-from-the-richest-pile/?envType=daily-question&envId=2025-03-11
+29. https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/?envType=daily-question&envId=2025-03-13
