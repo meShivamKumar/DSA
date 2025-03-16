@@ -29,4 +29,5 @@
 29. https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/?envType=daily-question&envId=2025-03-13
 30. https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
 31. https://leetcode.com/problems/rotate-array/description/
-32. https://leetcode.com/problems/roman-to-integer/description/
+32. https://leetcode.com/problems/plus-one/description/
+33. https://leetcode.com/problems/roman-to-integer/description/
