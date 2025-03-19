@@ -33,3 +33,4 @@
 33. https://leetcode.com/problems/roman-to-integer/description/
 34. https://leetcode.com/problems/can-place-flowers/description/
 35. https://leetcode.com/problems/find-the-maximum-achievable-number/description/
+36. https://leetcode.com/problems/transform-array-by-parity/description/
