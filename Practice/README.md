@@ -34,3 +34,4 @@
 34. https://leetcode.com/problems/can-place-flowers/description/
 35. https://leetcode.com/problems/find-the-maximum-achievable-number/description/
 36. https://leetcode.com/problems/transform-array-by-parity/description/
+37. https://leetcode.com/problems/richest-customer-wealth/description/
