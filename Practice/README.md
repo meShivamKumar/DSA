@@ -29,9 +29,10 @@
 29. https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/?envType=daily-question&envId=2025-03-13
 30. https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
 31. https://leetcode.com/problems/rotate-array/description/
-32. https://leetcode.com/problems/plus-one/description/
-33. https://leetcode.com/problems/roman-to-integer/description/
-34. https://leetcode.com/problems/can-place-flowers/description/
-35. https://leetcode.com/problems/find-the-maximum-achievable-number/description/
-36. https://leetcode.com/problems/transform-array-by-parity/description/
-37. https://leetcode.com/problems/richest-customer-wealth/description/
+32. https://leetcode.com/problems/count-the-number-of-consistent-strings/description/
+33. https://leetcode.com/problems/plus-one/description/
+34. https://leetcode.com/problems/roman-to-integer/description/
+35. https://leetcode.com/problems/can-place-flowers/description/
+36. https://leetcode.com/problems/find-the-maximum-achievable-number/description/
+37. https://leetcode.com/problems/transform-array-by-parity/description/
+38. https://leetcode.com/problems/richest-customer-wealth/description/
