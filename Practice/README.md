@@ -38,3 +38,5 @@
 38. https://leetcode.com/problems/transform-array-by-parity/description/
 39. https://leetcode.com/problems/richest-customer-wealth/description/
 40. https://leetcode.com/problems/design-parking-system/description/
+41. https://leetcode.com/problems/smallest-even-multiple/description/
+42. https://leetcode.com/problems/permutation-difference-between-two-strings/description/
