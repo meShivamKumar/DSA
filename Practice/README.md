@@ -42,3 +42,4 @@
 42. https://leetcode.com/problems/permutation-difference-between-two-strings/description/
 43. https://leetcode.com/problems/number-of-employees-who-met-the-target/description/
 44. https://leetcode.com/problems/goal-parser-interpretation/description/
+45. https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/
