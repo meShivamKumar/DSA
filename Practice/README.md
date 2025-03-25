@@ -43,3 +43,4 @@
 43. https://leetcode.com/problems/number-of-employees-who-met-the-target/description/
 44. https://leetcode.com/problems/goal-parser-interpretation/description/
 45. https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/
+46. https://leetcode.com/problems/running-sum-of-1d-array/description/
