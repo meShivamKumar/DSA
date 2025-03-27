@@ -45,3 +45,4 @@
 45. https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/
 46. https://leetcode.com/problems/running-sum-of-1d-array/description/
 47. https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
+48. https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/
