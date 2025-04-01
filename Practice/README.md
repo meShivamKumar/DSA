@@ -50,3 +50,4 @@
 50. https://leetcode.com/problems/left-and-right-sum-differences/description/
 51. https://leetcode.com/problems/truncate-sentence/description/
 52. https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/
+53. https://leetcode.com/problems/find-indices-of-stable-mountains/
