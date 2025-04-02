@@ -51,3 +51,4 @@
 51. https://leetcode.com/problems/truncate-sentence/description/
 52. https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/
 53. https://leetcode.com/problems/find-indices-of-stable-mountains/
+54. https://leetcode.com/problems/harshad-number/description/
