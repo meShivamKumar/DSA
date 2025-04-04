@@ -53,3 +53,4 @@
 53. https://leetcode.com/problems/find-indices-of-stable-mountains/
 54. https://leetcode.com/problems/harshad-number/description/
 55. https://leetcode.com/problems/destination-city/description/
+56. https://leetcode.com/problems/faulty-keyboard/description/
