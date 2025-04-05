@@ -48,9 +48,10 @@
 48. https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
 49. https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/
 50. https://leetcode.com/problems/left-and-right-sum-differences/description/
-51. https://leetcode.com/problems/truncate-sentence/description/
-52. https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/
-53. https://leetcode.com/problems/find-indices-of-stable-mountains/
-54. https://leetcode.com/problems/harshad-number/description/
-55. https://leetcode.com/problems/destination-city/description/
-56. https://leetcode.com/problems/faulty-keyboard/description/
+51. https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/
+52. https://leetcode.com/problems/truncate-sentence/description/
+53. https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/
+54. https://leetcode.com/problems/find-indices-of-stable-mountains/
+55. https://leetcode.com/problems/harshad-number/description/
+56. https://leetcode.com/problems/destination-city/description/
+57. https://leetcode.com/problems/faulty-keyboard/description/
