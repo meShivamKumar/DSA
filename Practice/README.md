@@ -56,3 +56,4 @@
 56. https://leetcode.com/problems/harshad-number/description/
 57. https://leetcode.com/problems/destination-city/description/
 58. https://leetcode.com/problems/faulty-keyboard/description/
+59. https://leetcode.com/problems/count-asterisks/description/
