@@ -57,3 +57,4 @@
 57. https://leetcode.com/problems/destination-city/description/
 58. https://leetcode.com/problems/faulty-keyboard/description/
 59. https://leetcode.com/problems/count-asterisks/description/
+60. https://leetcode.com/problems/reverse-degree-of-a-string/description/
