@@ -12,3 +12,5 @@ Daily:-
 11. 08Mar:- https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/?envType=daily-question&envId=2025-03-08
 12. 12Mar:- https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/?envType=daily-question&envId=2025-03-12
 13. 17Mar:- https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=daily-question&envId=2025-03-17
+14. 11Apr:- https://leetcode.com/problems/count-symmetric-integers/description/?envType=daily-question&envId=2025-04-11
+
