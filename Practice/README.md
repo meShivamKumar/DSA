@@ -62,3 +62,5 @@
 62. https://leetcode.com/problems/create-target-array-in-the-given-order/description/
 63. https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/
 64. https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/description/
+65. https://leetcode.com/problems/climbing-stairs/description/
+66. https://leetcode.com/problems/find-closest-person/description/
