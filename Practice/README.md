@@ -64,3 +64,4 @@
 64. https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/description/
 65. https://leetcode.com/problems/climbing-stairs/description/
 66. https://leetcode.com/problems/find-closest-person/description/
+67. https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/
