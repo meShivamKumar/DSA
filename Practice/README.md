@@ -65,3 +65,4 @@
 65. https://leetcode.com/problems/climbing-stairs/description/
 66. https://leetcode.com/problems/find-closest-person/description/
 67. https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/
+68. https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/
