@@ -13,5 +13,6 @@ Daily:-
 12. 12Mar:- https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/?envType=daily-question&envId=2025-03-12
 13. 17Mar:- https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=daily-question&envId=2025-03-17
 14. 11APR:- https://leetcode.com/problems/count-symmetric-integers/description/?envType=daily-question&envId=2025-04-11
-15. 14APR:= https://leetcode.com/problems/count-good-triplets/description/?envType=daily-question&envId=2025-04-14
+15. 14APR:- https://leetcode.com/problems/count-good-triplets/description/?envType=daily-question&envId=2025-04-14
+16. 17APR:- https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/description/?envType=daily-question&envId=2025-04-17
 
