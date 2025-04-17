@@ -60,9 +60,10 @@
 60. https://leetcode.com/problems/count-asterisks/description/
 61. https://leetcode.com/problems/reverse-degree-of-a-string/description/
 62. https://leetcode.com/problems/create-target-array-in-the-given-order/description/
-63. https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/
-64. https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/description/
-65. https://leetcode.com/problems/climbing-stairs/description/
-66. https://leetcode.com/problems/find-closest-person/description/
-67. https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/
-68. https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/
+63. https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/
+64. https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/
+65. https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/description/
+66. https://leetcode.com/problems/climbing-stairs/description/
+67. https://leetcode.com/problems/find-closest-person/description/
+68. https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/
+69. https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/
