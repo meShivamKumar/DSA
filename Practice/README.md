@@ -68,3 +68,4 @@
 68. https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/
 69. https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/
 70. https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/
+71. https://leetcode.com/problems/distribute-money-to-maximum-children/description/
