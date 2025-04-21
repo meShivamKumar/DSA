@@ -70,3 +70,4 @@
 70. https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/
 71. https://leetcode.com/problems/distribute-money-to-maximum-children/description/
 72. https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/
+73. https://leetcode.com/problems/reverse-string/description/
