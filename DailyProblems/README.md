@@ -16,4 +16,5 @@ Daily:-
 15. 14APR:- https://leetcode.com/problems/count-good-triplets/description/?envType=daily-question&envId=2025-04-14
 16. 17APR:- https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/description/?envType=daily-question&envId=2025-04-17
 17. 23APR:- https://leetcode.com/problems/count-largest-group/description/?envType=daily-question&envId=2025-04-23
+18. 26APR:- https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/?envType=daily-question&envId=2025-04-26
 
