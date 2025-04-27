@@ -74,3 +74,4 @@
 74. https://leetcode.com/problems/to-lower-case/description/
 75. https://leetcode.com/problems/fibonacci-number/description/
 76. https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/
+77. https://leetcode.com/problems/count-items-matching-a-rule/description/
