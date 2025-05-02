@@ -77,3 +77,4 @@
 77. https://leetcode.com/problems/count-items-matching-a-rule/description/
 78. https://leetcode.com/problems/check-if-n-and-its-double-exist/description/?envType=daily-question&envId=2025-04-29
 79. https://leetcode.com/problems/majority-element/description/
+80. https://leetcode.com/problems/number-of-1-bits/description/
