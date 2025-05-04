@@ -79,3 +79,4 @@
 79. https://leetcode.com/problems/majority-element/description/
 80. https://leetcode.com/problems/number-of-1-bits/description/
 81. https://leetcode.com/problems/add-digits/description/
+82. https://leetcode.com/problems/intersection-of-two-arrays/description/
