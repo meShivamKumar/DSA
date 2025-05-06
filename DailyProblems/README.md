@@ -19,4 +19,5 @@ Daily:-
 18. 26APR:- https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/?envType=daily-question&envId=2025-04-26
 19: 27APR:- https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/description/?envType=daily-question&envId=2025-04-28
 20: 30APR:- https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/?envType=daily-question&envId=2025-04-30
+21: 6MAY:- https://leetcode.com/problems/build-array-from-permutation/description/?envType=daily-question&envId=2025-05-06
 
