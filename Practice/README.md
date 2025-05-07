@@ -81,3 +81,4 @@
 81. https://leetcode.com/problems/add-digits/description/
 82. https://leetcode.com/problems/intersection-of-two-arrays/description/
 83. https://leetcode.com/problems/missing-number/description/
+84. https://leetcode.com/problems/fizz-buzz/description/
