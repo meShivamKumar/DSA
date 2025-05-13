@@ -86,3 +86,4 @@
 86. https://leetcode.com/problems/number-complement/description/
 87. https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 88. https://leetcode.com/problems/contains-duplicate/description/
+89. https://leetcode.com/problems/first-unique-character-in-a-string/description/
