@@ -88,3 +88,4 @@
 88. https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 89. https://leetcode.com/problems/contains-duplicate/description/
 90. https://leetcode.com/problems/first-unique-character-in-a-string/description/
+91. https://leetcode.com/problems/detect-capital/description/
