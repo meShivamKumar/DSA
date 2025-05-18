@@ -21,4 +21,5 @@ Daily:-
 20: 30APR:- https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/?envType=daily-question&envId=2025-04-30
 21: 6MAY:- https://leetcode.com/problems/build-array-from-permutation/description/?envType=daily-question&envId=2025-05-06
 22: 11MAY:- https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2025-05-11
+23. 17MAY:- https://leetcode.com/problems/sort-colors/?envType=daily-question&envId=2025-05-17
 
