@@ -90,5 +90,4 @@
 90. https://leetcode.com/problems/first-unique-character-in-a-string/description/
 91. https://leetcode.com/problems/detect-capital/description/
 92. https://leetcode.com/problems/relative-ranks/description/
-93. https://leetcode.com/problems/sort-colors/?envType=daily-question&envId=2025-05-17
-94. https://leetcode.com/problems/max-consecutive-ones/description/
+93. https://leetcode.com/problems/max-consecutive-ones/description/
