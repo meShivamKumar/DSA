@@ -93,3 +93,4 @@
 93. https://leetcode.com/problems/max-consecutive-ones/description/
 94. https://leetcode.com/problems/robot-return-to-origin/description/
 95. https://leetcode.com/problems/power-of-three/description/
+96. https://leetcode.com/problems/self-dividing-numbers/description/
