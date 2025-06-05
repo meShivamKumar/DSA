@@ -104,3 +104,4 @@
 104. https://leetcode.com/problems/reverse-only-letters/description/
 105. https://leetcode.com/problems/monotonic-array/description/
 106. https://leetcode.com/problems/ransom-note/description/
+107. https://leetcode.com/problems/detect-capital/description/
