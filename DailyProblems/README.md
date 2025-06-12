@@ -25,4 +25,5 @@ Daily:-
 24. 19MAY:- https://leetcode.com/problems/type-of-triangle/description/?envType=daily-question&envId=2025-05-19
 25. 24MAY:- https://leetcode.com/problems/find-words-containing-character/description/?envType=daily-question&envId=2025-05-24
 26. 27MAY:- https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/?envType=daily-question&envId=2025-05-27
+27. 12JUN:- https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/?envType=daily-question&envId=2025-06-12
 
