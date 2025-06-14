@@ -110,4 +110,5 @@
 110. https://leetcode.com/problems/move-zeroes/description/
 111. https://leetcode.com/problems/teemo-attacking/description/
 112. https://leetcode.com/problems/perfect-number/description/
-113. https://leetcode.com/problems/range-sum-query-immutable/description/ 
+113. https://leetcode.com/problems/range-sum-query-immutable/description/
+114. https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/?envType=daily-question&envId=2025-06-14
