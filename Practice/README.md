@@ -112,3 +112,4 @@
 112. https://leetcode.com/problems/perfect-number/description/
 113. https://leetcode.com/problems/range-sum-query-immutable/description/
 114. https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/?envType=daily-question&envId=2025-06-14
+115. https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/description/?envType=problem-list-v2&envId=array
