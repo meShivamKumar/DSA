@@ -113,3 +113,4 @@
 113. https://leetcode.com/problems/range-sum-query-immutable/description/
 114. https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/?envType=daily-question&envId=2025-06-14
 115. https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/description/?envType=problem-list-v2&envId=array
+116. https://leetcode.com/problems/number-of-senior-citizens/description/?envType=problem-list-v2&envId=array
