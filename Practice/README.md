@@ -115,3 +115,4 @@
 115. https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/description/?envType=problem-list-v2&envId=array
 116. https://leetcode.com/problems/number-of-senior-citizens/description/?envType=problem-list-v2&envId=array
 117. https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/
+118. https://leetcode.com/problems/remove-element/description/
