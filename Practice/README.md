@@ -118,3 +118,4 @@
 118. https://leetcode.com/problems/remove-element/description/
 119. https://leetcode.com/problems/length-of-last-word/description/
 120. https://leetcode.com/problems/fizz-buzz/description/
+121. https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/?envType=daily-question&envId=2025-06-24
