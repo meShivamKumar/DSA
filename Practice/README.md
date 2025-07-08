@@ -132,3 +132,4 @@
 132. https://leetcode.com/problems/find-lucky-integer-in-an-array/submissions/1686953201/?envType=daily-question&envId=2025-07-05
 133. https://leetcode.com/problems/next-greater-element-i/description/
 134. https://leetcode.com/problems/merge-sorted-array/description/
+135. https://leetcode.com/problems/reverse-integer/description/
