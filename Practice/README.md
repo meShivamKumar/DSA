@@ -138,3 +138,4 @@
 138. https://leetcode.com/problems/excel-sheet-column-number/description/
 139. https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 140. https://leetcode.com/problems/valid-perfect-square/description/
+141. https://leetcode.com/problems/find-lucky-integer-in-an-array/description/?envType=daily-question&envId=2025-07-14
